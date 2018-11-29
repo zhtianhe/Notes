@@ -465,7 +465,7 @@ FM64    5       fml32     -     -
 ### 4、Makefile
 
 ```Makefile
-a
+
 all:  cfg  mkf  stockclient stockserver
 
 cfg:
