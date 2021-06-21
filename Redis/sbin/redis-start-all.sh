@@ -1,0 +1,9 @@
+redis-server ~/conf/redis-6371.conf 
+redis-server ~/conf/redis-6372.conf 
+redis-server ~/conf/redis-6373.conf 
+redis-server ~/conf/redis-6374.conf 
+redis-server ~/conf/redis-6375.conf 
+redis-server ~/conf/redis-6376.conf 
+redis-server ~/conf/redis-6377.conf 
+redis-server ~/conf/redis-6378.conf 
+redis-server ~/conf/redis-6379.conf 

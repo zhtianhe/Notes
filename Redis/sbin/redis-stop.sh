@@ -1,0 +1,9 @@
+redis-cli -c -h 10.10.10.76 -p 6371 -a test123 shutdown 2>/dev/null
+redis-cli -c -h 10.10.10.76 -p 6372 -a test123 shutdown 2>/dev/null
+redis-cli -c -h 10.10.10.76 -p 6373 -a test123 shutdown 2>/dev/null
+redis-cli -c -h 10.10.10.76 -p 6374 -a test123 shutdown 2>/dev/null
+redis-cli -c -h 10.10.10.76 -p 6375 -a test123 shutdown 2>/dev/null
+redis-cli -c -h 10.10.10.76 -p 6376 -a test123 shutdown 2>/dev/null
+redis-cli -c -h 10.10.10.76 -p 6377 -a test123 shutdown 2>/dev/null
+redis-cli -c -h 10.10.10.76 -p 6378 -a test123 shutdown 2>/dev/null
+redis-cli -c -h 10.10.10.76 -p 6379 -a test123 shutdown 2>/dev/null
