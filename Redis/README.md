@@ -19,7 +19,7 @@
 
 # 查看集群状态
 ` redis-status.sh `
-
+注意：gawk 需要4.0.2及以上版本
 ```
 77 redis-cli -c -h  -p 
 1、check 9 IP Port
