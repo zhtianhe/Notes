@@ -1,4 +1,4 @@
-
+```
 
 .
 ├── redis-benchmark   redis 自带测试工具
@@ -11,7 +11,7 @@
 ├── redis-start-all.sh redis 启动脚本
 ├── redis-status.sh    redis 集群查看脚本
 └── redis-stop.sh      redis 停止脚本
-
+```
 
 # 创建集群 三主六从 ( 3x 一主两从 )
 
